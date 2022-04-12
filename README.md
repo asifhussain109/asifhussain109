@@ -1,4 +1,4 @@
-- 👋 Hi, I’m asif ekbal hussain
+- 👋 Hi, I’m Md Asif Ekbal Hussain
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on building predictive model using python 
